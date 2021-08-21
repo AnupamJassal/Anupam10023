@@ -3,7 +3,7 @@
     
 ### Hi, this is Anupam 👋
 
-### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
+### Iam a student MCA (pursuing) from BIT Mesra,who is looking for a job in the world of IT 
 💻Code Name : intel_101
     
 🖥️ MyBlog : https://armour001.blogspot.com/
