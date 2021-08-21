@@ -2,6 +2,7 @@
 
 ### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
 💻Code Name : intel_101
+🖥️ MyBlog : https://armour001.blogspot.com/
 
 🤠 About me -
 
