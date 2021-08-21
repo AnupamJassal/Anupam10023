@@ -1,6 +1,6 @@
 <img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="480">
-
-### Hi,this is Anupam 👋
+<p style="text-align:right">
+### Hi, this is Anupam 👋
 
 ### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
 💻Code Name : intel_101
@@ -15,6 +15,7 @@
 - 📫 How to reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ ...
 - 😄 Pronouns: He/Her...
 - ⚡ Fun fact: Iam an Adventurous guy who loves riding , having a good emotional intelligence !!!...
+</p>
 
 ## 🚀 Languages and Tools:
 
