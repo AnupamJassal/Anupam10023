@@ -1,3 +1,4 @@
+<img align="middle" width="570"  height="500" src="https://imgur.com/Tm0GqyD.png">
 ### Hello and Welcome to my Github Profile , it's your buddy.. Anupam 👋
 
 ### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
