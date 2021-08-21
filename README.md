@@ -1,4 +1,4 @@
-<img align="middle" width="570"  height="500" src="https://imgur.com/Tm0GqyD.png">
+<img align="right"  src="https://imgur.com/Tm0GqyD.png" width="570"  height="500">
 
 ### Hello and Welcome to my Github Profile , it's your buddy.. Anupam 👋
 
