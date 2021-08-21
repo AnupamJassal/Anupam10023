@@ -1,5 +1,6 @@
 <img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="480">
-<p style="text-align:right">
+<p style="text-align:left">
+    
 ### Hi, this is Anupam 👋
 
 ### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
