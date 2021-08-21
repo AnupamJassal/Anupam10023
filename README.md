@@ -1,4 +1,6 @@
-### Hello and Welcome to my Github Profile , this is your friend.. Anupam Jassal 👋
+### Hello and Welcome to my Github Profile , it's your buddy.. Anupam 👋
+
+### Iam a PG student,who is looking for a job in the world of IT 
 💻Code Name : intel_101
 
 🤠 About me -
