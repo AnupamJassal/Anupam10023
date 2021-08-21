@@ -1,6 +1,6 @@
-<img align="right"  src="https://imgur.com/Tm0GqyD.png" width="570"  height="500">
+<img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="500">
 
-### Hello and Welcome to my Github Profile , it's your buddy.. Anupam 👋
+### Hi,this is Anupam 👋
 
 ### Iam a MCA (pursuing) student from BIT MESRA ,who is looking for a job in the world of IT 
 💻Code Name : intel_101
