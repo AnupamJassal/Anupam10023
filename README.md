@@ -1,6 +1,6 @@
-### Hi there , this is Anupam Jassal 👋
+### Hello and Welcome to my Github Profile , this is your friend.. Anupam Jassal 👋
 
-# About me -
+🤠 About me -
 
 - 🔭 I’m currently working on Web Development with MERN Stack ...
 - 🌱 I’m currently learning ML/DL/AI...
