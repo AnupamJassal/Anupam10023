@@ -1,4 +1,4 @@
-<img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="550">
+<img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="590">
 <p style="text-align:left">
     
 ### Hi, this is Anupam 👋
