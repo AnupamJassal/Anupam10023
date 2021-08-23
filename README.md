@@ -1,7 +1,7 @@
 <img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="590">
 <p style="text-align:left">
     
-### Hi, this is Anupam 👋
+### Hi there, this is Anupam 👋
 
 ### Currently studying MCA at BIT Mesra,looking for a job in the field of Computer Science ..!!
 💻Code Name : intel_101
