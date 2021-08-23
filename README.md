@@ -3,7 +3,7 @@
     
 ### Hi, this is Anupam 👋
 
-### Currently studying MCA at BIT Mesra,looking for a job in the field of Computer Sc.!!
+### Currently studying MCA at BIT Mesra,looking for a job in the field of Computer Science ..!!
 💻Code Name : intel_101
     
 🖥️ MyBlog : https://armour001.blogspot.com/
