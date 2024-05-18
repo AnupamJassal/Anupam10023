@@ -12,7 +12,7 @@
 🤠 About me -
 - 📫 How to reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ ...
 - 😄 Pronouns: He/His ..
-- ⚡ Fun fact: Loves riding and playing games !!...
+- ⚡ Fun fact: Loves technology ..!!
 </p>
 
 ## 🚀 Languages and Tools:
