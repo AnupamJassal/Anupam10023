@@ -3,7 +3,7 @@
     
 ### Hi there, this is Anupam 👋
 
-### Studied MCA at BIT Mesra,looking for a great oppurtunity ahead
+### A learner and explorer who loves to do technical experiments
     
 🖥️ MyBlog : https://armour001.blogspot.com/
 
