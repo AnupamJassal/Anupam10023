@@ -1,18 +1,18 @@
 <img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="590">
 <p style="text-align:left">
     
-### Hi there, this is Anupam 👋
+### Hi there 👋, this is Anupam 
 
 ### A learner and explorer who loves to do technical experiments
     
-🖥️ MyBlog : https://armour001.blogspot.com/
+🖥️ My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
 
 📎My Portfolio :  https://anupam10023.github.io/anupamport.github.io/
 
 🤠 About me -
-- 📫 How to reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ ...
-- 😄 Pronouns: He/His ..
-- ⚡ Fun fact: Loves technology ..!!
+- 📫 How to reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact: Loves technology and gadgets !!!
 </p>
 
 ## 🚀 Languages and Tools:
